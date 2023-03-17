@@ -21,3 +21,5 @@ Utilized web-scraping and data analysis to scrape and preview text from Mars new
 
 * How many terristrial (earth) days in a Martian year?
 ![image](https://user-images.githubusercontent.com/119978382/225781689-960cbd72-446b-44b2-b206-fef37a9f7a57.png)
+
+
