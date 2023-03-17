@@ -1,5 +1,5 @@
 # Mars-Webscrape
-Utilized web-scraping and data analysis to scrape and preview text from Mars news articles and analyze Mars weather data. Created a Beautiful Soup object to scrape titles and preview texts from Mars news articles. Scraped and analzyed Mars weather data, which exists in a HTML table. Assembled the scraped data into a Pandas DataFrame and analyzed dataset to answer questions.  
+Utilized web-scraping and data analysis to scrape and preview text from Mars news articles and analyze Mars weather data. Created a Beautiful Soup object to scrape titles and preview texts from Mars news articles. Scraped and analyzed Mars weather data, which exists in a HTML table. Assembled the scraped data into a Pandas DataFrame and examined dataset to answer questions.  
 
 ![image](https://user-images.githubusercontent.com/119978382/225780749-dd189ba1-c7e8-4172-a9c1-8481f2fc89dc.png)
 
