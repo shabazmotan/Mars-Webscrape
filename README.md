@@ -10,6 +10,7 @@ Utilized web-scraping and data analysis to scrape and preview text from Mars new
 ![image](https://user-images.githubusercontent.com/119978382/225780989-0b10d6e1-a20e-4748-9ee5-2e13d3ebef98.png)
 
 * What is the average low temperature by month?
+
 ![image](https://user-images.githubusercontent.com/119978382/225782726-07139f74-a477-4a0d-8659-25bbb0791b18.png)
 
 * The average temperature by month
