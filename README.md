@@ -7,7 +7,7 @@ Utilized web-scraping and data analysis to scrape and preview text from Mars new
 ![image](https://user-images.githubusercontent.com/119978382/225780551-ae3932a7-bcd5-472c-b46f-60c27e367272.png)
 
 * How many Martian days' worth of data are there?
-![image](https://user-images.githubusercontent.com/119978382/225780989-0b10d6e1-a20e-4748-9ee5-2e13d3ebef98.png)
+![image](https://user-images.githubusercontent.com/119978382/225789006-7e64be80-2807-439b-b489-af39a00c59f7.png)
 
 * What is the average low temperature by month?
 
