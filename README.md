@@ -11,7 +11,7 @@ Utilized web-scraping and data analysis to scrape and preview text from Mars new
 
 * What is the average low temperature by month?
 
-![image](https://user-images.githubusercontent.com/119978382/225781121-0beb78b6-1b11-4ba1-ab38-97cb318da53b.png)
+ ![image](https://user-images.githubusercontent.com/119978382/225781121-0beb78b6-1b11-4ba1-ab38-97cb318da53b.png)
 
 * The average temperature by month
 ![image](https://user-images.githubusercontent.com/119978382/225781369-df802ce5-8fd8-4d53-b1e6-4785bffbaff6.png)
