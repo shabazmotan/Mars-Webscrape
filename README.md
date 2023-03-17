@@ -19,7 +19,7 @@ Utilized web-scraping and data analysis to scrape and preview text from Mars new
 * Which months have the lowest and the highest atmospheric pressure on Mars? 
 ![image](https://user-images.githubusercontent.com/119978382/225781489-b048c4a0-ae0e-4e63-bd93-6a61c2e00765.png)
 
-* How many terristrial (earth) days in a Martian year?
+* How many terrestrial (earth) days in a Martian year?
 ![image](https://user-images.githubusercontent.com/119978382/225781689-960cbd72-446b-44b2-b206-fef37a9f7a57.png)
 
 
