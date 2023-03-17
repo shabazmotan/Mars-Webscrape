@@ -1,5 +1,5 @@
 # Mars-Webscrape
-Utilized web-scraping and data analysis to scrape and preview text from Mars news articles and analyze Mars weather data. Created a Beautiful Soup object and used it to extract text elements and scrape the data in the HTML table. Extracted the titles and preview text of the news articles that were scraped. Assembled the scraped data into a Pandas DataFrame.
+Utilized web-scraping and data analysis to scrape and preview text from Mars news articles and analzye Mars weather data. Created a Beautiful Soup object to scrape titles and preview texts from Mars news articles. Scraped and analzyed Mars weather data, which exists in a HTML table. Assembled the scraped data into a Pandas DataFrame and analyzed dataset to answer questions.  
 
 ![image](https://user-images.githubusercontent.com/119978382/225780749-dd189ba1-c7e8-4172-a9c1-8481f2fc89dc.png)
 
@@ -10,8 +10,7 @@ Utilized web-scraping and data analysis to scrape and preview text from Mars new
 ![image](https://user-images.githubusercontent.com/119978382/225780989-0b10d6e1-a20e-4748-9ee5-2e13d3ebef98.png)
 
 * What is the average low temperature by month?
-
- ![image](https://user-images.githubusercontent.com/119978382/225781121-0beb78b6-1b11-4ba1-ab38-97cb318da53b.png)
+![image](https://user-images.githubusercontent.com/119978382/225782726-07139f74-a477-4a0d-8659-25bbb0791b18.png)
 
 * The average temperature by month
 ![image](https://user-images.githubusercontent.com/119978382/225781369-df802ce5-8fd8-4d53-b1e6-4785bffbaff6.png)
